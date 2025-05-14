@@ -35,7 +35,7 @@ export default function App({ Component, pageProps }: any) {
   return (
     <>
       <Head>
-        <title>Rive</title>
+        <title>ZEDFLIXS</title>
         <meta name="description" content="Your Personal Streaming Oasis" />
         <meta
           name="keywords"
